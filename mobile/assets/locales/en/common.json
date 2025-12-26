@@ -1,0 +1,5 @@
+{
+  "common.empty_list_text": "List is empty",
+  "common.our_company_name": "Kesa Treba",
+  "common.code_was_sent_by_email": "The code has been sent to {{email}} it’s valid during {{time}}"
+}

@@ -1,0 +1,43 @@
+{
+  "auth_page.title": "Войти",
+  "auth_page.or": "или",
+  "auth_page.terms_of_service": "Регистрируясь, Вы соглашаетесь С Условиями Обслуживания",
+
+  "search_page.title": "Поиск",
+
+  "liked_products_page.title": "Избранное",
+  "liked_products_page.empty_products_list_text": "Добавьте понравившуюся\nвещь в избранное",
+
+  "profile_page.title": "Профиль",
+
+  "profile_products_page.title": "Мои объявления",
+  "profile_products_page.tab_opened": "Открытые",
+  "profile_products_page.tab_hidden": "Скрытые",
+  "profile_products_page.tab_sold": "Проданные",
+
+  "settings_page.title": "Настройки",
+  "settings_page.account": "Аккаунт",
+  "settings_page.other": "Другое",
+  "settings_page.support": "Поддержка",
+  "settings_page.push_notifications": "Пуш-уведомления",
+  "settings_page.email": "Cообщения",
+  "settings_page.user_agreement": "Пользовательское соглашение",
+
+  "settings_change_name_page.title": "Сменить имя",
+
+  "settings_change_password_page.title": "Сменить пароль",
+  "settings_change_password_page.code_message_text": "Сообщение с кодом придёт вам на почту {{userEmail}}",
+
+  "settings_change_photo_page.title": "Сменить фотографию",
+
+  "chats_page.title": "Чаты",
+
+  "create_product_page.title": "",
+  "create_product_page.category_step": "Выберите категорию",
+  "create_product_page.promotion_type_step": "Тип рекламы",
+  "create_product_page.images_step": "Внешний вид",
+  "create_product_page.name_step": "Укажите название",
+  "create_product_page.price_step": "Цена",
+  "create_product_page.location_step": "Где можно забрать",
+  "create_product_page.condition_step": "Опишите товар"
+}

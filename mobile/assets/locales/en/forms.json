@@ -1,0 +1,54 @@
+{
+  "forms.city.belgrade": "Belgrade",
+  "forms.city.novi_sad": "Novi Sad",
+
+  "forms.currency.usdt": "USDT",
+  "forms.currency.din": "DIN",
+  "forms.currency.rub": "RUB",
+  "forms.currency.eur": "EUR",
+
+  "forms.condition.new": "New",
+  "forms.condition.used": "Used",
+
+  "forms.sort.cheaper": "Cheaper",
+  "forms.sort.expensively": "More expensive",
+  "forms.sort.date": "By date",
+  "forms.sort.likes": "Likes",
+  "forms.sort.views": "Views",
+
+  "forms.language_tag.ru": "Rus",
+  "forms.language_tag.en": "Eng",
+  "forms.language_tag.srb": "Srb",
+
+  "forms.label.price": "Price",
+  "forms.label.category": "Category",
+  "forms.label.subcategory": "Subcategory",
+  "forms.label.currency": "Currency",
+  "forms.label.city": "Where to search",
+  "forms.label.condition": "Condition",
+  "forms.label.sort": "Sort",
+  "forms.label.language_tag": "Ad language",
+  "forms.label.image": "Appearance",
+  "forms.label.name": "Name",
+  "forms.label.description": "Description",
+  "forms.label.promotion_type": "Promotion type",
+  "forms.label.location": "Place of transaction",
+
+  "forms.promotion_type.type_1": "Peasant",
+  "forms.promotion_type.type_2": "Rich",
+
+  "forms.input_name": "Enter name",
+  "forms.input_product_name": "Enter name",
+  "forms.input_price": "Price",
+  "forms.input_price_from": "From",
+  "forms.input_price_to": "To",
+  "forms.input_description": "Describe condition, features and other details",
+  "forms.input_email": "Email",
+  "forms.input_password": "Password",
+  "forms.input_confirm_password": "Confirm password",
+  "forms.input_search": "Search in Kesa Treba",
+  "forms.input_city": "Choose city",
+  "forms.input_location": "City or district",
+  "forms.input_message": "Message",
+  "forms.input_code": "Code"
+}

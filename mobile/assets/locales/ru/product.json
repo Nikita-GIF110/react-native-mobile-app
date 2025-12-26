@@ -1,0 +1,9 @@
+{
+  "product.created_days_ago": "Создано cегодня",
+  "product.created_days_ago_other": "Создано {{days}} денй назад",
+  "product.on_moderation_status": "На модерации",
+  "product.on_rejected_status": "Отклонен",
+  "product.action_hide": "Скрыть",
+  "product.action_open": "Открыть",
+  "product.sell_product": "Закрыть продажу"
+}

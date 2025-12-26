@@ -1,0 +1,9 @@
+{
+  "user.products_count": "{{count}} объявление",
+  "user.products_count_other": "{{count}} объявлений",
+  "user.account_created_at": "с {{date}}",
+  "user.rating": "Рейтинг",
+  "user.listings": "Объявление",
+  "user.registered": "Зарегистрирован",
+  "user.has_new_agreement": "Пользовательское соглашение было изменено, Ознакомьтесь с изменениями"
+}

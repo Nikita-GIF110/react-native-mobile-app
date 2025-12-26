@@ -1,0 +1,58 @@
+{
+  "forms.city.belgrade": "Белград",
+  "forms.city.novi_sad": "Нови Сад",
+
+  "forms.currency.usdt": "USDT",
+  "forms.currency.din": "DIN",
+  "forms.currency.rub": "RUB",
+  "forms.currency.eur": "EUR",
+
+  "forms.condition.new": "Новое",
+  "forms.condition.used": "Б/у",
+
+  "forms.sort.cheaper": "Дешевле",
+  "forms.sort.expensively": "Дороже",
+  "forms.sort.date": "По дате",
+  "forms.sort.likes": "Лайки",
+  "forms.sort.views": "Просмотры",
+
+  "forms.language_tag.ru": "Руc",
+  "forms.language_tag.en": "Англ",
+  "forms.language_tag.srb": "Срб",
+
+  "forms.label.price": "Цена",
+  "forms.label.category": "Категория",
+  "forms.label.subcategory": "Подкатегория",
+  "forms.label.currency": "Валюта",
+  "forms.label.city": "Где искать",
+  "forms.label.condition": "Состояние",
+  "forms.label.sort": "Сортировка",
+  "forms.label.language_tag": "Язык объявления",
+  "forms.label.image": "Внешний вид",
+  "forms.label.name": "Название",
+  "forms.label.description": "Описание",
+  "forms.label.promotion_type": "Тип рекламы",
+  "forms.label.location": "Место сделки",
+
+  "forms.promotion_type.type_1": "Крестьянин",
+  "forms.promotion_type.type_2": "Богач",
+
+  "forms.input_name": "Укажите имя",
+  "forms.input_product_name": "Укажите название",
+  "forms.input_price": "Цена",
+  "forms.input_price_from": "От",
+  "forms.input_price_to": "До",
+  "forms.input_description": "Расскажите о состоянии, особенностях и других деталях",
+  "forms.input_email": "Электронная почта",
+  "forms.input_password": "Пароль",
+  "forms.input_confirm_password": "Подтвердите пароль",
+  "forms.input_search": "Поиск в Kesa Treba",
+  "forms.input_city": "Выберите город",
+  "forms.input_location": "Город или район",
+  "forms.input_message": "Сообщение",
+  "forms.input_code": "Код",
+
+  "forms.short_message_template_1": "Торг уместен?",
+  "forms.short_message_template_2": "Все еще актуален?",
+  "forms.short_message_template_3": "Где я могу его посмотреть?"
+}

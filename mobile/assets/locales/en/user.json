@@ -1,0 +1,9 @@
+{
+  "user.products_count": "{{count}} listing",
+  "user.products_count_other": "{{count}} listings",
+  "user.account_created_at": "since {{date}}",
+  "user.rating": "Rating",
+  "user.listings": "Listing",
+  "user.registered": "Registered",
+  "user.has_new_agreement": "The User Agreement has been changed, Review the changes"
+}

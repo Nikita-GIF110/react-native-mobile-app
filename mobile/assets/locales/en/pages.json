@@ -1,0 +1,43 @@
+{
+  "auth_page.title": "Sign in",
+  "auth_page.or": "or",
+  "auth_page.terms_of_service": "By Signing Up, You agree On The Terms Of Service",
+
+  "search_page.title": "Search",
+
+  "liked_products_page.title": "Favorites",
+  "liked_products_page.empty_products_list_text": "Add liked\nitems to favorites",
+
+  "profile_page.title": "Profile",
+
+  "profile_products_page.title": "My listings",
+  "profile_products_page.tab_opened": "Opened",
+  "profile_products_page.tab_hidden": "Hidden",
+  "profile_products_page.tab_sold": "Sold",
+
+  "settings_page.title": "Settings",
+  "settings_page.account": "Account",
+  "settings_page.other": "Other",
+  "settings_page.support": "Support",
+  "settings_page.push_notifications": "Push notifications",
+  "settings_page.email": "Messages",
+  "settings_page.user_agreement": "User agreement",
+
+  "settings_change_name_page.title": "Change name",
+
+  "settings_change_password_page.title": "Change password",
+  "settings_change_password_page.code_message_text": "A message with the code will be sent to your email {{userEmail}}",
+
+  "settings_change_photo_page.title": "Change photo",
+
+  "chats_page.title": "Chats",
+
+  "create_product_page.title": "",
+  "create_product_page.category_step": "Choose category",
+  "create_product_page.promotion_type_step": "Promotion type",
+  "create_product_page.images_step": "Appearance",
+  "create_product_page.name_step": "Enter name",
+  "create_product_page.price_step": "Price",
+  "create_product_page.location_step": "Pickup location",
+  "create_product_page.condition_step": "Describe item"
+}

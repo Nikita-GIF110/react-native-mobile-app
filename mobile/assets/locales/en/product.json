@@ -1,0 +1,9 @@
+{
+  "product.created_days_ago": "Created today",
+  "product.created_days_ago_other": "Created {{days}} days ago",
+  "product.on_moderation_status": "On Moderation",
+  "product.on_rejected_status": "Rejected",
+  "product.action_hide": "Hide",
+  "product.action_open": "Open",
+  "product.sell_product": "Close the sale"
+}
