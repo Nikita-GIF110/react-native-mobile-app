@@ -1,6 +1,6 @@
 export const CONFIG = {
-  API_BASE_URL: "https://kesatreba.com/api",
-  WEB_SOCKET_BASE_URL: "wss://kesatreba.com/ws/track-messages",
+  API_BASE_URL: "https://my-url.com/api",
+  WEB_SOCKET_BASE_URL: "wss://my-url.com/ws/track-messages",
 
   TOKEN_KEY: "token",
   EMAIL_KEY: "userEmail",
