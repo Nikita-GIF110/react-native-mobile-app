@@ -32,7 +32,7 @@ export const CaptchaFormField = React.forwardRef<
   return (
     <ConfirmHcaptcha
       ref={ref}
-      siteKey="55122e04-6bce-4c82-ae0a-eb1c94d877ce"
+      siteKey="my-key"
       languageCode="ru"
       onMessage={handelMessage}
       showLoading
